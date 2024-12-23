@@ -16,3 +16,7 @@ legend {
     font: 600 1rem/1.25 var(--font-family);
     margin-bottom: 1.5rem;
 }
+
+fieldset + fieldset { /* quando houver um fieldset e anterior a ele outro fieldset tipo um segundo fieldset com o anterior colado*/
+    margin-top: 3rem;
+}
