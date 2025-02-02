@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 51.25% 48.75%;
 
-    height: 100vh;
+    height: 100vh; /* toda a parte visivel da pagina sem rolagem  obs: margin e padding zerado overflow hidden*/
     overflow: hidden;
 }
 

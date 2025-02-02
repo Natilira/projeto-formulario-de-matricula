@@ -17,6 +17,6 @@ legend {
     margin-bottom: 1.5rem;
 }
 
-fieldset + fieldset { /* quando houver um fieldset e anterior a ele outro fieldset tipo um segundo fieldset com o anterior colado*/
+fieldset + fieldset { /* quando houver um fieldset e anterior a ele outro fieldset tipo um segundo fieldset com o anterior colado */
     margin-top: 3rem;
 }
